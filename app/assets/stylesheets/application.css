@@ -11,4 +11,8 @@
  *= require_self
  *= require_tree .
  */
+<<<<<<< HEAD
 body { padding-top: 70px; }
+=======
+body {padding-top: 70px;}
+>>>>>>> 2bc3b708f73d55dc9f15e7554abad71bc50b32e5

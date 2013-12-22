@@ -6,7 +6,11 @@ gem 'rails', '3.2.12'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
+<<<<<<< HEAD
 
+=======
+gem 'devise'
+>>>>>>> 2bc3b708f73d55dc9f15e7554abad71bc50b32e5
 
 # Gems used only for assets and not required
 # in production environments by default.

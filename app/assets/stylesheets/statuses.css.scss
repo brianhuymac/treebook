@@ -3,6 +3,7 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 .status {
+<<<<<<< HEAD
 	border-bottom: solid 1px #CCC;
 	padding: 5px 0;
 }
@@ -20,4 +21,20 @@
 }
 .status.hover {
 		background: #FAFAFA
+=======
+	border-bottom: solid 1px #ccc;
+	padding: 5px 0;
+}
+.status p {
+	margin: 4px 0;
+} 
+.status.hover {
+	background: #FAFAFA;
+}
+.status .admin {
+	display:none;
+}
+.status.hover .admin {
+	display: inline;
+>>>>>>> 2bc3b708f73d55dc9f15e7554abad71bc50b32e5
 }

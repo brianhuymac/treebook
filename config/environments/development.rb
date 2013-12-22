@@ -34,4 +34,9 @@ Treebook::Application.configure do
 
   # Expands the lines which load the assets
   config.assets.debug = true
+<<<<<<< HEAD
+=======
+
+  config.action_mailer.default_url_options = { :host => 'localhost:3000' }
+>>>>>>> 2bc3b708f73d55dc9f15e7554abad71bc50b32e5
 end

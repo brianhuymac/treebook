@@ -58,5 +58,10 @@ module Treebook
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+<<<<<<< HEAD
+=======
+
+    config.assets.initialize_on_precompile = false
+>>>>>>> 2bc3b708f73d55dc9f15e7554abad71bc50b32e5
   end
 end
